@@ -4,10 +4,10 @@
 ## Installation
 ### Download the project
 Download the project from github : 
-`git clone https://github.com/clopenclassrooms/p6.git`
+`git clone https://github.com/c-lanon-dev/FirstSymfonyWebsite.git`
 
 ### Change the configuration
-    * Access to the project directory : `cd p6`
+    * Access to the project directory : `cd FirstSymfonyWebsite`
 
     * Rename the file ".env.CHANGE_THIS" with the command line : 
 **mv ./Symfony/myapp/.env.CHANGE_THIS ./Symfony/myapp/.env**
